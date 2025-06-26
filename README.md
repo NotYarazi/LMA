@@ -1,4 +1,9 @@
-# LMA
-Linguagem Modular Autónoma, um software que cria simulações utilizando de base os comandos enviados e a linguagem JAF
+## [PT] LMA (Linguagem Modular Autónoma)
+É um software que cria simulações básicas 3D, simplifica textos e até cria uma apresentação com slides sobre um tópico a escolha - utilizando de base os comandos enviados, uma instância especialmente treinada da Ruby.AI e a linguagem JAF (JustAFrog 22).
 
--# see more on "https://www.youtube.com/watch?v=-JSLFRz1zII"
+-# Aqui o vídeo do Youtube "https://www.youtube.com/watch?v=-JSLFRz1zII"
+
+## [EN[ LMA (Autonomous Modular Language) 
+It’s a software tool that creates basic 3D simulations, simplifies texts, and can even generate a slide presentation on a topic of your choice—using - user-provided commands, a specially trained instance of Ruby.AI, and the JAF (JustAFrog 22) language as its foundation.
+
+-# Here’s the YouTube video: "https://www.youtube.com/watch?v=-JSLFRz1zII"
